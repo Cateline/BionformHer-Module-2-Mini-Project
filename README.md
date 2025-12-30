@@ -1,31 +1,32 @@
 # BionformHer-Module-2-Mini-Project
-
-Evolutionary Conservation of the Hemoglobin Beta (HBB) Gene
-Project Overview
+# Evolutionary Conservation of the Hemoglobin Beta (HBB) Gene
+## Project Overview
 This repository contains my submission for the BioinformHer Module 2 Mini Project, which explores the evolutionary conservation of the Hemoglobin Beta (HBB) gene across multiple species using basic bioinformatics tools. The project applies sequence retrieval, alignment, visualization, and phylogenetic analysis techniques learned in Module 2.
 
-Objectives
+# Objectives
 The main goals of this project were to:
 
-Retrieve homologous HBB gene sequences from different species
+1. Retrieve homologous HBB gene sequences from different species
 
-Perform pairwise and multiple sequence alignments
+2. Perform pairwise and multiple sequence alignments
 
-Visualize conserved regions using sequence logos
+3. Visualize conserved regions using sequence logos
 
-Construct a phylogenetic tree to infer evolutionary relationships
+4. Construct a phylogenetic tree to infer evolutionary relationships
 
-Document and present findings clearly and reproducibly
+5. Document and present findings clearly and reproducibly
 
-Tools and Resources Used
+# Tools and Resources Used
 The following freely available bioinformatics tools were used:
 
-NCBI BLAST – sequence retrieval and homology search
+1. NCBI BLAST
 
-Clustal Omega / MUSCLE – multiple sequence alignment
+2. Clustal Omega / MUSCLE 
 
-Skylign – sequence logo generation
+3. Skylign for sequence logo generation
 
-MEGA X – phylogenetic tree construction
+4. MEGA X for phylogenetic tree construction
 
-GitHub – project documentation and version control
+5. GitHub – project documentation
+
+
